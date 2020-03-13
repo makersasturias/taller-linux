@@ -4,6 +4,8 @@
 
 Desde [MakersAsturias](http://makersasturias.org/) hemos detectado la necesidad de explicar que es Linux, ya que muchos proyectos "maker" se basan en él.
 
+[![Diapositivas](etc/taller-linux.png)](etc/taller-linux.pdf)
+
 ## Contexto
 
 Linux ([evitemos las flamewars](https://es.wikipedia.org/wiki/Controversia_por_la_denominaci%C3%B3n_GNU/Linux)) es un  sistema operativo. En definitiva es un software que sirve para que un hardware (CPU, RAM, disco duro, pantalla, teclado y ratón) ejecute tareas.
